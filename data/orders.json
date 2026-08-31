@@ -1,0 +1,104 @@
+[
+  {
+    "orderId": "VK-336974",
+    "fullName": "Sayan Kakkar",
+    "phone": "1111123444",
+    "address": "Swroop nagar, Delhi - 110042",
+    "paymentMethod": "CARD",
+    "items": [
+      {
+        "id": "princess-stylish-girls-sweater-Midnight Black-4-5 Years-none",
+        "product": {
+          "id": "princess-stylish-girls-sweater",
+          "sku": "VK-SWT-002",
+          "name": "Princess Stylish Girls High Neck Full Sleeve Turtleneck Sweater (Midnight Black)",
+          "brand": "Cozy Cuddle by Vikas Kumar",
+          "category": "clothes",
+          "department": "Kids Turtlenecks & Sweaters",
+          "price": 699,
+          "originalPrice": 1299,
+          "discountPercent": 46,
+          "rating": 4.9,
+          "reviewsCount": 2150,
+          "ratingBreakdown": {
+            "1": 0,
+            "2": 1,
+            "3": 2,
+            "4": 8,
+            "5": 89
+          },
+          "isBestSeller": true,
+          "isAmazonChoice": true,
+          "inStock": true,
+          "stockCount": 30,
+          "deliveryDays": 1,
+          "estimatedDelivery": "FREE delivery Tomorrow by 10 PM across India",
+          "tagline": "Timeless High-Neck Winter Layering Essential for Girls & Teens",
+          "description": "A classic wardrobe staple hand-finished at Vikas Kumar Atelier. Crafted from non-itch thermal ribbed acrylic-cotton knit that retains gentle body warmth while providing a sleek, sophisticated silhouette for school, casual outings, or formal parties.",
+          "features": [
+            "Cozy double-layer foldover turtleneck collar keeps neck comfortably warm",
+            "Ribbed cuffs and hem provide a snug fit that stays in place",
+            "100% itch-free ultra-fine yarn gentle on delicate skin",
+            "Versatile aesthetic pairs effortlessly with jeans, skirts, or overalls",
+            "Wrinkle-resistant and retains its rich jet-black color wash after wash"
+          ],
+          "specifications": {
+            "Style": "High Neck Folded Turtleneck",
+            "Sleeve": "Full Length Sleeve with Elasticated Rib Cuffs",
+            "Yarn Type": "Soft-Touch Cotton-Acrylic Thermal Blend",
+            "Pattern": "Fine Ribbed Solid Knit",
+            "Weight": "240 Grams",
+            "Manufacture": "Vikas Kumar Knitting Studios"
+          },
+          "material": "Thermal Ribbed Cotton-Acrylic Soft Blend",
+          "softnessScore": 9.7,
+          "colors": [
+            {
+              "name": "Midnight Black",
+              "hex": "#111111"
+            },
+            {
+              "name": "Snow White",
+              "hex": "#FFFFFF"
+            },
+            {
+              "name": "Warm Cream",
+              "hex": "#F5EBE0"
+            }
+          ],
+          "sizes": [
+            "4-5 Years",
+            "6-7 Years",
+            "8-9 Years",
+            "10-11 Years",
+            "12-13 Years",
+            "14-16 Years (Teens)"
+          ],
+          "images": [
+            "/images/products/princess-girls-turtleneck.png",
+            "/images/products/cutiepie-classy-hanger.png"
+          ],
+          "modelType": "romper",
+          "customizable": true,
+          "frequentlyBoughtWith": [
+            "tinkle-comfy-girls-2pc-combo",
+            "cutiepie-fancy-girls-sweater"
+          ]
+        },
+        "selectedColor": {
+          "name": "Midnight Black",
+          "hex": "#111111"
+        },
+        "selectedSize": "4-5 Years",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 699,
+    "discount": 0,
+    "finalTotal": 699,
+    "timestamp": "2026-08-31T17:20:44.614Z",
+    "status": "Pending",
+    "whatsappUrl": "https://wa.me/918360303562?text=%F0%9F%9B%8D%EF%B8%8F%20*NEW%20ORDER%20-%20VIKAS%20KUMAR%20ATELIER*%0A*Order%20ID%3A*%20%23VK-336974%0A*Customer%3A*%20Sayan%20Kakkar%0A*WhatsApp%20Phone%3A*%20%2B91%201111123444%0A*Delivery%20Address%3A*%20Swroop%20nagar%2C%20Delhi%20-%20110042%0A*Payment%20Mode%3A*%20CARD%20(Confirmed%20(COD%20%2F%20Card))%0A*Paid%20To%20Account%3A*%20%2B91%208360303562%0A%0A%F0%9F%93%A6%20*ITEMS%20ORDERED%3A*%0A%E2%80%A2%20Princess%20Stylish%20Girls%20High%20Neck%20Full%20Sleeve%20Turtleneck%20Sweater%20(Midnight%20Black)%20(Qty%3A%201%2C%20Size%3A%204-5%20Years%2C%20Shade%3A%20Midnight%20Black)%20-%20%E2%82%B9699%0A%0A%F0%9F%92%B0%20*FINAL%20AMOUNT%3A*%20%E2%82%B9699%20(FREE%20All-India%20Delivery)%0A%E2%9C%A8%20Thank%20you%20for%20choosing%20Vikas%20Kumar%20Atelier!",
+    "id": "VK-336974"
+  }
+]
