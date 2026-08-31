@@ -558,13 +558,6 @@
   ],
   "coupons": [
     {
-      "code": "VIKAS30",
-      "discountPercent": 30,
-      "description": "Vikas Kumar 30% Special Launch Deal",
-      "active": true,
-      "usageCount": 42
-    },
-    {
       "code": "VIKASLOVE",
       "discountPercent": 10,
       "description": "10% Family & Friends Welcome Code",
@@ -591,5 +584,5 @@
     "ownerPhone": "8360303562",
     "freeGiftThreshold": 1499
   },
-  "updatedAt": "2026-08-31T16:54:00.790Z"
+  "updatedAt": "2026-08-31T16:54:22.574Z"
 }
