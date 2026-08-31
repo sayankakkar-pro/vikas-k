@@ -308,7 +308,7 @@
       "brand": "Cozy Cuddle by Vikas Kumar",
       "category": "clothes",
       "department": "Value Combos (2-Pack)",
-      "price": 1399,
+      "price": 0,
       "originalPrice": 2699,
       "discountPercent": 48,
       "rating": 4.92,
@@ -591,5 +591,5 @@
     "ownerPhone": "8360303562",
     "freeGiftThreshold": 1499
   },
-  "updatedAt": "2026-08-31T16:42:10.444Z"
+  "updatedAt": "2026-08-31T16:43:06.305Z"
 }
